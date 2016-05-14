@@ -1,0 +1,33 @@
+.pkDataCommonTable {
+	font-size: 12px;
+	border-bottom: none !important;
+}
+
+.pkDataCommonTable thead th {
+	border: none !important;
+}
+
+.pkDataCommonTable thead tr {
+	background-color: #d00355;
+	border-bottom-color: #d00355 !important;
+	border-left-color: #d00355 !important;
+	border-right-color: #d00355 !important;
+	border-top-color: #d00355 !important;
+	color: #ffffff;
+}
+
+.pkDisplayHide {
+	display: none;
+}
+
+input.parsley-error {
+	border: 1px solid #f7cb38;
+	background: #ffff88;
+}
+
+.parsley-errors-list {
+	list-style: none;
+	padding-left: 5px;
+	color: #f7cb38;
+	text-align: left;
+}
